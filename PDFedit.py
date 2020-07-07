@@ -1,7 +1,6 @@
 ###########################################
-# DON'T TOUCH ANYTHING BELLOW THIS LINE
+# DON'T TOUCH ANYTHING IN THIS FILE
 ###########################################
-#pip install PyPDF2
 print('Thankyou for using PDFedit')
 print('For more of my repositories go to https://github.com/marangoisa')
 print('Importing libraries')
